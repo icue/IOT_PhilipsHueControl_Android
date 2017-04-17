@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\College\\IOT\\QuickStartApp\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bridgelist.xml",
+        "source": "D:\\College\\IOT\\QuickStartApp\\app\\src\\main\\res\\menu\\bridgelist.xml"
+    }
+]

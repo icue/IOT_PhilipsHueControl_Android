@@ -1,0 +1,7 @@
+#Wed Apr 12 21:33:29 PDT 2017
+base.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\huelocalsdk_be492c9cb9fe48e9cce9a12e85fb4c89fe48950c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\huesdkresources_b7935ca54c33217dcdcf3836b5cc4577939377fa\\classes.dex
+base.1=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\huesdkresources_b7935ca54c33217dcdcf3836b5cc4577939377fa
+file.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\huelocalsdk_be492c9cb9fe48e9cce9a12e85fb4c89fe48950c\\classes.dex
