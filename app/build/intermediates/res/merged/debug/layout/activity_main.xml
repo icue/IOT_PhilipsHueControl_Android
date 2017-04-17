@@ -9,21 +9,11 @@
     tools:context=".MyApplicationActivity" >
 
     <Button
-        android:id="@+id/buttonRand"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:text="@string/btn_random" android:paddingLeft="10dp" android:paddingRight="10dp"/>
-
-    <Button
         android:id="@+id/buttonFunc1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="13dp"
         android:text="@string/btn_func1" android:paddingLeft="10dp" android:paddingRight="10dp"
-        android:layout_below="@+id/buttonRand"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_toRightOf="@+id/editText"

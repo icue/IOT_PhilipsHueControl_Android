@@ -1,7 +1,4 @@
-#Mon Apr 17 14:22:14 PDT 2017
-base.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36cd32e0973ce65ad1f76066c0917a4ec567dfbe
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69cfaefef48d75adc7bf0f435243b6473e79b295\\classes.dex
-base.1=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69cfaefef48d75adc7bf0f435243b6473e79b295
-file.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_36cd32e0973ce65ad1f76066c0917a4ec567dfbe\\classes.dex
+#Mon Apr 17 16:26:08 PDT 2017
+base.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\College\\IOT\\QuickStartApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -6,34 +6,31 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1492464129868"
+    timestamp="1492470552880"
     token="-173258372478578591"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="878" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="258" />
+        duration="0" />
     <task
         name="verifier"
-        duration="44" />
+        duration="0" />
 
-    <artifact
-        location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="D:\College\IOT\QuickStartApp\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
         location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -59,22 +56,22 @@
     <artifact
         location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\College\IOT\QuickStartApp\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1492464129868"
+        timestamp="1492470552880"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\College\IOT\QuickStartApp\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
             location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="D:\College\IOT\QuickStartApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\College\IOT\QuickStartApp\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

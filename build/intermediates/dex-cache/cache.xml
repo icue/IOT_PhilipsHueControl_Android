@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\College\IOT\QuickStartApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7f24e30c7727c724c81965875acdecf246472188">
-        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69cfaefef48d75adc7bf0f435243b6473e79b295\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\College\IOT\QuickStartApp\app\libs\huelocalsdk.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="07362e192094e402e032db4407c86e36080340ab">
-        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\huelocalsdk_be492c9cb9fe48e9cce9a12e85fb4c89fe48950c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\College\IOT\QuickStartApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36cd32e0973ce65ad1f76066c0917a4ec567dfbe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="D:\College\IOT\QuickStartApp\app\libs\huesdkresources.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="7183fbb86900448556ef87d3af0db01a77c27a09">
-        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\huesdkresources_b7935ca54c33217dcdcf3836b5cc4577939377fa\classes.dex" />
+        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\pre-dexed\debug\huesdkresources_b7935ca54c33217dcdcf3836b5cc4577939377fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\College\IOT\QuickStartApp\app\libs\huelocalsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07362e192094e402e032db4407c86e36080340ab">
+        <dex dex="D:\College\IOT\QuickStartApp\app\build\intermediates\pre-dexed\debug\huelocalsdk_be492c9cb9fe48e9cce9a12e85fb4c89fe48950c.jar" />
     </item>
 
 </items>
